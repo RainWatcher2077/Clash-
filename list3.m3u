@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
 #EXTINF:-1 group-title="DAZN",DAZN F1
 http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/6071/index.m3u
 #EXTINF:-1 group-title="SKY NEWS",Sky News Extra 2 AU
