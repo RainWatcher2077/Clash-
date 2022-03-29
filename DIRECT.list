@@ -1,11 +1,14 @@
+;LZU
 DOMAIN-KEYWORD,lzu
 DOMAIN-SUFFIX,npupt.com
 IP-CIDR,117.156.10.0/25
 IP-CIDR,10.10.0.0/25
+;Others
 DOMAIN-SUFFIX,steampipe.akamaized.net
 ;DOMAIN-SUFFIX,steamdb.info
-DOMAIN-KEYWORD,scifinder
 DOMAIN-KEYWORD,1password
+;Science
+DOMAIN-KEYWORD,scifinder
 DOMAIN-SUFFIX,rsc.org
 DOMAIN-SUFFIX,cas.org
 DOMAIN-SUFFIX,acs.org
@@ -14,3 +17,4 @@ DOMAIN-SUFFIX,sciencedirect.com
 DOMAIN-SUFFIX,elsevier.com
 DOMAIN-SUFFIX,nature.com
 DOMAIN-KEYWORD,wiley
+DOMAIN-SUFFIX,doi.org
