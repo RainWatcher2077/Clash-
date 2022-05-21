@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,steampipe.akamaized.net
 ;DOMAIN-SUFFIX,steamdb.info
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,cloudflare.com
 ;Science
 DOMAIN-KEYWORD,scifinder
 DOMAIN-SUFFIX,rsc.org
