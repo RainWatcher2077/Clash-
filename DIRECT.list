@@ -2,7 +2,7 @@ DOMAIN-KEYWORD,lzu
 DOMAIN-SUFFIX,npupt.com
 IP-CIDR,117.156.10.0/25
 IP-CIDR,10.10.0.0/25
-DOMAIN-SUFFIX,steampipe.akamaized.net
+;DOMAIN-SUFFIX,steampipe.akamaized.net
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,rutracker.org
 DOMAIN-KEYWORD,scifinder
